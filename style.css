@@ -10,8 +10,6 @@ html {
 
 header {
     opacity: .7;
-    transition: height 0.35s ease; /* Controla la velocidad de la transición */
-    overflow: hidden; /* Evita el desbordamiento */
 }
 
 body {
